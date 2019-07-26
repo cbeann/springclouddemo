@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da4e57c-4dec-46c6-aa04-14d2f62c438a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-7001/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-7003/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-7002/target/" />
+    <ignored path="$PROJECT_DIR$/provider-8001/target/" />
+    <ignored path="$PROJECT_DIR$/provider-8002/target/" />
+    <ignored path="$PROJECT_DIR$/provider-8003/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-80-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-80-feign/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-80-feign-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-9527/target/" />
+    <ignored path="$PROJECT_DIR$/config-server-3344/target/" />
+    <ignored path="$PROJECT_DIR$/config-client-eureka-789001/target/" />
+    <ignored path="$PROJECT_DIR$/helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-service-a/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-service-b/target/" />
+    <ignored path="$PROJECT_DIR$/hystrixdashboard-9001/target/" />
+    <ignored path="$PROJECT_DIR$/gateway-9527/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-admin-server/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-admin-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-admin-client/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-admin-client/src/main/java/com/example/springbootadminclient/SpringbootAdminClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/provider-8002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-8003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-80-ribbon/src/main/java/com/example/consumer80ribbon/Config.java" />
+        <option value="$PROJECT_DIR$/consumer-80-ribbon/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-80-ribbon/src/main/java/com/example/consumer80ribbon/Consumer80RibbonApplication.java" />
+        <option value="$PROJECT_DIR$/consumer-80-ribbon/src/main/java/com/example/consumer80ribbon/DeptController.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-80-feign/src/main/java/com/example/consumer80feign/DeptService.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign/src/main/java/com/example/consumer80feign/DeptController.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign/src/main/java/com/example/consumer80feign/Consumer80FeignApplication.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/java/com/example/consumer80feignhystrix/DeptController.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/java/com/example/consumer80feignhystrix/DeptServiceFallBack.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/java/com/example/consumer80feignhystrix/DeptService.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zuul-9527/src/main/java/com/example/zuul9527/Zuul9527Application.java" />
+        <option value="$PROJECT_DIR$/zuul-9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-server-3344/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-server-3344/src/main/java/com/example/configserver3344/ConfigServer3344Application.java" />
+        <option value="$PROJECT_DIR$/config-client-eureka-789001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config-client-eureka-789001/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-eureka-789001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-client-eureka-789001/src/main/java/com/example/configclienteureka789001/ConfigClientEureka789001Application.java" />
+        <option value="$PROJECT_DIR$/helloworld/src/main/java/com/example/helloworld/HelloworldApplication.java" />
+        <option value="$PROJECT_DIR$/helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworld/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/helloworld/src/main/java/com/example/helloworld/HelloController.java" />
+        <option value="$PROJECT_DIR$/consumer-80-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-service-a/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-service-a/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zipkin-service-a/src/main/java/com/example/zipkinservicea/AController.java" />
+        <option value="$PROJECT_DIR$/zipkin-service-b/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zipkin-service-a/src/main/java/com/example/zipkinservicea/Config.java" />
+        <option value="$PROJECT_DIR$/zipkin-service-b/src/main/java/com/example/zipkinserviceb/Config.java" />
+        <option value="$PROJECT_DIR$/zipkin-service-b/src/main/java/com/example/zipkinserviceb/BController.java" />
+        <option value="$PROJECT_DIR$/hystrixdashboard-9001/src/main/java/com/example/hystrixdashboard9001/Hystrixdashboard9001Application.java" />
+        <option value="$PROJECT_DIR$/hystrixdashboard-9001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/java/com/example/consumer80feignhystrix/Consumer80FeignHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/gateway-9527/src/main/java/com/example/gateway9527/HelloController.java" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/java/com/example/provider8001/Provider8001Application.java" />
+        <option value="$PROJECT_DIR$/provider-8002/src/main/java/com/example/provider8002/Provider8002Application.java" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/java/com/example/provider8001/DeptController.java" />
+        <option value="$PROJECT_DIR$/provider-8002/src/main/java/com/example/provider8002/DeptController.java" />
+        <option value="$PROJECT_DIR$/gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-9527/src/main/java/com/example/gateway9527/Gateway9527Application.java" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/java/com/example/provider8001/GatewayController.java" />
+        <option value="$PROJECT_DIR$/gateway-9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gateway-9527/src/main/java/com/example/gateway9527/Config.java" />
+        <option value="$PROJECT_DIR$/springboot-admin-server/src/main/java/com/example/springbootadminserver/SpringbootAdminServerApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-admin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-admin-client/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.2.2" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.2.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="helloworld" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="helloworld" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/java/com/example/consumer80feignhystrix" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.zipkinserviceb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ IDEA 2019.1.3Workspace\SpringCloudDemoo\consumer-80-feign-hystrix\src\main\java\com\example\consumer80feignhystrix" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootAdminClientApplication">
+    <configuration name="ConfigClientEureka789001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client-eureka-789001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configclienteureka789001.ConfigClientEureka789001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServer3344Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver3344.ConfigServer3344Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer80FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-80-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consumer80feign.Consumer80FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer80FeignHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-80-feign-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consumer80feignhystrix.Consumer80FeignHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer80RibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-80-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consumer80ribbon.Consumer80RibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka7001.Eureka7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7002Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.eureka7002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka7002.Eureka7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-7002 (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka7002.Eureka7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka7003.Eureka7003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway9527Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway9527.Gateway9527Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.helloworld.HelloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hystrixdashboard9001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrixdashboard-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hystrixdashboard9001.Hystrixdashboard9001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.provider8001.Provider8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.provider8002.Provider8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.provider8003.Provider8003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootadminclient.SpringbootAdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-admin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootadminserver.SpringbootAdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinServiceAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-service-a" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinservicea.ZipkinServiceAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinServiceBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-service-b" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zipkinserviceb.ZipkinServiceBApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul9527Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zuul9527.Zuul9527Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Eureka7002Application (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da4e57c-4dec-46c6-aa04-14d2f62c438a" name="Default Changelist" comment="" />
+      <created>1564019076132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564019076132</updated>
+      <workItem from="1564019078931" duration="7523000" />
+      <workItem from="1564035488382" duration="2090000" />
+      <workItem from="1564039649932" duration="4604000" />
+      <workItem from="1564049691842" duration="5584000" />
+      <workItem from="1564058384509" duration="184000" />
+      <workItem from="1564058571819" duration="130000" />
+      <workItem from="1564059002870" duration="600000" />
+      <workItem from="1564060793642" duration="138000" />
+      <workItem from="1564104386415" duration="11812000" />
+      <workItem from="1564125687439" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33451000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.45777777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zuul-9527/src/main/java/com/example/zuul9527/Zuul9527Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-3344/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-3344/src/main/java/com/example/configserver3344/ConfigServer3344Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client-eureka-789001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client-eureka-789001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client-eureka-789001/src/main/java/com/example/configclienteureka789001/ConfigClientEureka789001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client-eureka-789001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/src/main/java/com/example/helloworld/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/src/main/java/com/example/helloworld/HelloworldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-80-ribbon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-80-feign/src/main/java/com/example/consumer80feign/Consumer80FeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-80-feign/src/main/java/com/example/consumer80feign/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-80-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-a/src/main/java/com/example/zipkinservicea/AController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-a/src/main/java/com/example/zipkinservicea/Config.java" />
+    <entry file="file://$PROJECT_DIR$/zipkin-service-a/src/main/java/com/example/zipkinservicea/ZipkinServiceAApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-b/src/main/java/com/example/zipkinserviceb/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-b/src/main/java/com/example/zipkinserviceb/ZipkinServiceBApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-b/src/main/java/com/example/zipkinserviceb/BController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-a/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-b/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-service-a/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="12" lean-forward="true" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrixdashboard-9001/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/java/com/example/consumer80feignhystrix/Consumer80FeignHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-80-feign-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrixdashboard-9001/src/main/java/com/example/hystrixdashboard9001/Hystrixdashboard9001Application.java" />
+    <entry file="file://$PROJECT_DIR$/zuul-9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="33" column="21" selection-start-line="22" selection-start-column="7" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven/RepMaven/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/SpringBootConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven/RepMaven/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven/RepMaven/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8.0_131/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-9527/src/main/java/com/example/gateway9527/HelloController.java" />
+    <entry file="file://$PROJECT_DIR$/provider-8002/src/main/java/com/example/provider8002/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8002/src/main/java/com/example/provider8002/Provider8002Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-7001/src/main/java/com/example/eureka7001/Eureka7001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/example/provider8001/Provider8001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/example/provider8001/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/example/provider8001/GatewayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-9527/src/main/java/com/example/gateway9527/Gateway9527Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-9527/src/main/java/com/example/gateway9527/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-admin-server/src/main/java/com/example/springbootadminserver/SpringbootAdminServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-admin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-admin-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-admin-client/src/main/java/com/example/springbootadminclient/SpringbootAdminClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

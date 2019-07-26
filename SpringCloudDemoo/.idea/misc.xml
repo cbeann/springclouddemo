@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-80-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-80-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-80-feign-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-eureka-789001/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-service-a/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-service-b/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

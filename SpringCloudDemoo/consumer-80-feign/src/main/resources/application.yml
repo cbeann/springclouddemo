@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: consumer-80-feign
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+server:
+  port: 80

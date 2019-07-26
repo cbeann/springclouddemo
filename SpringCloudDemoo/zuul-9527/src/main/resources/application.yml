@@ -1,0 +1,20 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: zuul-9587
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+
+zuul:
+  #ignored-services: microservicecloud-dept
+  prefix: /abc
+  ignored-services: "*"
+  routes:
+    mydept.serviceId: provider
+    mydept.path: /myprovider/**
+
